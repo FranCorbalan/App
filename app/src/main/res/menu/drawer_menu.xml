@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Quiénes somos" />
+    <item
+        android:id="@+id/nav_facebook"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Facebook" />
+    <item
+        android:id="@+id/nav_instagram"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Instagram" />
+    <item
+        android:id="@+id/nav_x"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="X" />
+    <item
+        android:id="@+id/nav_whatsapp"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Whatsapp" />
+    <item
+        android:id="@+id/nav_website"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Sitio web" />
+</menu>
